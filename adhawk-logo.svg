@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <text x="20" y="65" font-family="Arial, sans-serif" font-weight="700" font-size="48" fill="#2C3E50">Ad<tspan fill="#3498DB">Hawk</tspan></text>
+  
+  <path d="M260 40 L275 30 L290 40 L275 50 Z" fill="#3498DB" />
+  <path d="M260 40 L245 30 L230 40 L245 50 Z" fill="#3498DB" />
+</svg>
